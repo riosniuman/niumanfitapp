@@ -1,4 +1,4 @@
-import type { FC } from 'react';
+git pushimport type { FC } from 'react';
 import { View, Text, StyleSheet, ScrollView } from 'react-native';
 
 interface MetricCardProps {
